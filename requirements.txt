@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+fastmcp
+langgraph
+langchain-anthropic
+torch
+pandas
+scikit-learn
+category_encoders
+joblib
+python-dotenv
+beautifulsoup4
+selenium
+Pillow
+pydantic
+google-genai
+selenium
